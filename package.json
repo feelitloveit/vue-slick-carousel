@@ -10,7 +10,7 @@
     "nuxt"
   ],
   "license": "MIT",
-  "main": "dist/vue-slick-carousel.umd.js",
+  "main": "vue-slick-carousel.umd.js",
   "name": "vue-slick-carousel",
   "repository": {
     "type": "git",
